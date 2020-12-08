@@ -2,12 +2,13 @@
 npm install
 
 # 运行
-> node v12.5.0
+>版本信息：操作系统 macOS 10.15.7  node v12.5.0   
+
 1，运行服务端：node server.js
 2，运行客户端：node client.js
 
 # 描述
-修改client.js最后一行，改变使用的库
+修改client.js最后一行，改变http请求使用的库
 ```
 sendPost(0) // 使用 urllib
 //sendPost(1) //使用 axios
