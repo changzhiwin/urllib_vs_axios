@@ -1,0 +1,26 @@
+{
+  "name": "urllib_vs_axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changzhiwin/urllib_vs_axios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changzhiwin/urllib_vs_axios/issues"
+  },
+  "homepage": "https://github.com/changzhiwin/urllib_vs_axios#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "urllib": "^2.36.1"
+  }
+}
